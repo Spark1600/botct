@@ -1,0 +1,530 @@
+[
+  {
+    "id": "virologo",
+    "image": "https://pandal.page/imgs/imgs/5faa76b6b6b98.jpg",
+    "edition": "covid-19",
+    "firstNight": 1,
+    "firstNightReminder": "la prima notte apprende quanti infetti (asintomatici, falso positivo, paziente zero) ci sono al tavolo",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["infetto", "esca"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Il virologo",
+    "team": "townsfolk",
+    "ability": "sa quanti infetti ci sono al tavolo (asintomatici, falso positivo, paziente zero)"
+  },
+  { 
+    "id": "virologo" 
+  },
+  { 
+    "id": "virologo" 
+  }
+]
+
+
+
+[
+  {
+    "id": "manifestante",
+    "image": "https://drive.google.com/file/d/1x16HV1lT4pMLeO6HsQohoMTvBPNNjAuU/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": ["buono", "cattivo"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Il Manifestante",
+    "team": "townsfolk",
+    "ability": "ogni notte colpisce un giocatore e scopre a quale allineamento appartiene"
+  },
+  { 
+    "id": "Manifestante" 
+  },
+  { 
+    "id": "manifestante" 
+  }
+]
+
+[
+  {
+    "id": "barbaradurso",
+    "image": "https://pandal.page/imgs/imgs/5faa7744bbca5.jpg",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": ["usato"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Barbara durso",
+    "team": "townsfolk",
+    "ability": "una volta di giorno in privato fa una domanda allo storyteller"
+  },
+  { 
+    "id": "barbaradurso" 
+  },
+  { 
+    "id": "barbaradurso" 
+  }
+]
+
+[
+  {
+    "id": "negazionista",
+    "image": "https://drive.google.com/file/d/14vYQH4D2MDS3CLgNp_gJoqhvNI42nUA6/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": ["vero", "esca"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Il Negazionista",
+    "team": "townsfolk",
+    "ability": "ogni notte sceglie 2 giocatori conosce i ruoli ma uno è sbagliato"
+  },
+  { 
+    "id": "negazionista" 
+  },
+  { 
+    "id": "negazionista" 
+  }
+]
+
+[
+  {
+    "id": "medicoasl",
+    "image": "https://drive.google.com/file/d/1Jhi-455F3m8VdVK-zBOlpkGaFPHN0pDE/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Medico dell'asl",
+    "team": "townsfolk",
+    "ability": "una volta ogni notte fa il tampone a un giocatore e scopre se è infetto (asintomatici, falso positivo, paziente zero)"
+  },
+  { 
+    "id": "medicoasl" 
+  },
+  { 
+    "id": "medicoasl" 
+  }
+]
+
+[
+  {
+    "id": "giornalista",
+    "image": "https://drive.google.com/file/d/1lfOg1MpTvyoe_BVnlOYFWxqWdK5bhV7K/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Il giornalista",
+    "team": "townsfolk",
+    "ability": "ogni giorno farà due dichiarazioni pubbliche se una è vera muore all'istante"
+  },
+  { 
+    "id": "giornalista" 
+  },
+  { 
+    "id": "giornalista" 
+  }
+]
+
+
+[
+  {
+    "id": "ristoratore",
+    "image": "https://pandal.page/imgs/imgs/5faa7815e0a4f.jpg",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "la prima notte scopre se c'è il presidente della regione in gioco",
+    "otherNight": 49,
+    "otherNightReminder": "se nomina per l'esecuzione il presidente questo muore all'istante",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Il ristoratore",
+    "team": "townsfolk",
+    "ability": "la prima notte sa se c'è un presidente della regione se lo nomina per esecuzione il presidente muore all'istante"
+  },
+  { 
+    "id": "ristoratore" 
+  },
+  { 
+    "id": "ristoratore" 
+  }
+]
+
+[
+  {
+    "id": "billgates",
+    "image": "https://drive.google.com/file/d/1OsGdjueJujYqLs-yjObwI3XqlLz8nALv/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "ogni notte vaccina un giocatore ed è salvo, se il giocatore è infetto guarisce",
+    "reminders": ["vaccinato"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Bill Gates",
+    "team": "townsfolk",
+    "ability": "ogni notte vaccina un giocatore ed è salvo, se il giocatore (townsfolk) è infetto guarisce"
+  },
+  { 
+    "id": "billgates" 
+  },
+  { 
+    "id": "billgates" 
+  }
+]
+
+[
+  {
+    "id": "donatore",
+    "image": "https://drive.google.com/file/d/1XpYcKoUrOv8-ZiYvhgUpQpuYNESXisKC/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": ["dono"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Il donatore",
+    "team": "townsfolk",
+    "ability": "in un giorno a scelta dichiara il suo ruolo, torna a casa e muore durante la notte. tutti i giocatori ricevono il potere di donare la propria abilità per una sola volta a un altro giocatore"
+  },
+  { 
+    "id": "donatore" 
+  },
+  { 
+    "id": "donatore" 
+  }
+]
+
+[
+  {
+    "id": "immune",
+    "image": "https://drive.google.com/file/d/1gv_QTH53VlI_IKYV9PKuoIR6qhxiAb3U/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "l'immune",
+    "team": "townsfolk",
+    "ability": "è immune a qualsiasi veleno o contagio, muore solo per esecuzione"
+  },
+  { 
+    "id": "cinese" 
+  },
+  { 
+    "id": "cinese" 
+  }
+]
+
+[
+  {
+    "id": "Salvini",
+    "image": "https://drive.google.com/file/d/1dY-42BMrLiO16JSZKnomTb5Pvh9tZUp-/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Salvini",
+    "team": "townsfolk",
+    "ability": "ogni notte scopre il ruolo dell'ultimo morto, se non muore nessuno è lui a morire"
+  },
+  { 
+    "id": "Salvini" 
+  },
+  { 
+    "id": "Salvini" 
+  }
+]
+
+[
+  {
+    "id": "medicodistratto",
+    "image": "https://drive.google.com/file/d/1LnIg3L4rt8uJK-beSGvmZktS9xv0MWEw/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["usato"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Medico Distratto",
+    "team": "townsfolk",
+    "ability": "una volta per partita di giorno intuba male un giocatore se il giocatore è un townfolk quest'ultimo muore"
+  },
+  { 
+    "id": "medicodistratto" 
+  },
+  { 
+    "id": "medicodistratto" 
+  }
+]
+
+[
+  {
+    "id": "brunovespa",
+    "image": "https://drive.google.com/file/d/15z25Urg9IiYzxw2UAX8f3ZF0pYfwsG4Y/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "prende il potere dell ultimo morto fino alla notte successiva",
+    "reminders": ["morto"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Bruno Vespa",
+    "team": "townsfolk",
+    "ability": "di notte prende il potere dell ultimo morto fino alla notte successiva"
+  },
+  { 
+    "id": "brunovespa" 
+  },
+  { 
+    "id": "brunovespa" 
+  }
+]
+
+[
+  {
+    "id": "martire",
+    "image": "https://drive.google.com/file/d/1ZmArKdgNIXmUztIf_y-ZUvkvnygpHUgx/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Bruno Vespa",
+    "team": "townsfolk",
+    "ability": "se viene nominato da un cattivo e giustiziato il bene vince"
+  },
+  { 
+    "id": "martire" 
+  },
+  { 
+    "id": "martire" 
+  }
+]
+
+[
+  {
+    "id": "asintomatico",
+    "image": "https://drive.google.com/file/d/1mgLgjCQQ84iHaenfFkoNFQWHiDbqt0pm/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": ["asintomatico"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "l'asintomatico",
+    "team": "outsider",
+    "ability": "non sa di esserlo e riceve un ruolo casuale ma le abilita non funzionano. avvelena 1 dei suoi vicini, dopo 3 giorni entrambi guariscono e l'asintomatico diventa il ruolo ricevuto la prima notte"
+  },
+  { 
+    "id": "asintomatico" 
+  },
+  { 
+    "id": "asintomatico" 
+  }
+]
+
+[
+  {
+    "id": "falsopositivo",
+    "image": "https://drive.google.com/file/d/1sOAYU-QSeJZLYTk3PyuMem-Jso3fQxam/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": ["falso positivo"],
+    "setup": false,
+    "name": "L'asintomatico",
+    "team": "outsider",
+    "ability": "crede di essere un cattivo, se nomina per l'esecuzione muore all'istante"
+  },
+  { 
+    "id": "falsopositivo" 
+  },
+  { 
+    "id": "falsopositivo" 
+  }
+]
+
+[
+  {
+    "id": "sgarbi",
+    "image": "https://drive.google.com/file/d/1yhxuDl9656izkl1KM77KnFAjJtr4D6gE/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Vittorio Sgarbi",
+    "team": "outsider",
+    "ability": "si registra come cattivo"
+  },
+  { 
+    "id": "sgarbi" 
+  },
+  { 
+    "id": "sgarbi" 
+  }
+]
+
+[
+  {
+    "id": "presidenteregione",
+    "image": "https://drive.google.com/file/d/1nZ7uhUU6vEJi7jj_6eiHu2fJKJeEnU7u/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": ["lockdown"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "il presidente della regione",
+    "team": "minion",
+    "ability": "ogni notte può mettere in lockdown un giocatore (non lo stesso della notte prima) questo non uscirà dalla casa e non avrà abilità per il giorno e la notte"
+  },
+  { 
+    "id": "presidenteregione" 
+  },
+  { 
+    "id": "presidenteregione" 
+  }
+]
+
+[
+  {
+    "id": "ministrosalute",
+    "image": "https://drive.google.com/file/d/1w6w-3bTGSQ7imXvp4MuCggamvozJDWab/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": ["avvelenato"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Ministro della salute",
+    "team": "minion",
+    "ability": "ogni notte sceglie un giocatore che sarà avvelenato, se il demone muore ne prende il ruolo"
+  },
+  { 
+    "id": "ministrosalute" 
+  },
+  { 
+    "id": "ministrosalute" 
+  }
+]
+
+[
+  {
+    "id": "pazientezero",
+    "image": "https://drive.google.com/file/d/1lHnrL0W6ZOpvuRQvbwJK7EG93bBzLrHh/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "dopo 3 notti muore e uno dei suoi vicini prende il suo ruolo mentre l'altro guarisce",
+    "reminders": ["avvelenato"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Il paziente zero",
+    "team": "minion",
+    "ability": "i suoi vicini sono avvelenati dopo 3 notti muore e uno dei due vicini prende il suo ruolo mentre l'altro guarisce"
+  },
+  { 
+    "id": "pazientezero" 
+  },
+  { 
+    "id": "pazientezero" 
+  }
+]
+
+[
+  {
+    "id": "gconte",
+    "image": "https://drive.google.com/file/d/1YibrENgII-fYRAHbWLlJgHh4JlKMw9hK/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "",
+    "reminders": [""],
+    "remindersGlobal": ["Giuseppe Conte],
+    "setup": false,
+    "name": "Giuseppe Conte",
+    "team": "demon",
+    "ability": "dopo 5 notti scatterà il lockdown"
+  },
+  { 
+    "id": "gconte" 
+  },
+  { 
+    "id": "gconte" 
+  }
+]
+
+[
+  {
+    "id": "coviddi",
+    "image": "https://drive.google.com/file/d/1xia1RN4klXwReZ9bSHplTEIIOZIKHrdp/view?usp=sharing",
+    "edition": "covid-19",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "ogni notte (tranne la prima) scheglie chi deve morire",
+    "reminders": ["muori"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Covid-19",
+    "team": "demon",
+    "ability": "19: ogni notte sceglie 2 giocatori uno muore l'altro è avvelenato"
+  },
+  { 
+    "id": "coviddi" 
+  },
+  { 
+    "id": "coviddi" 
+  }
+]
